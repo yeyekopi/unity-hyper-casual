@@ -1,0 +1,9 @@
+{
+  "name": "com.gamingforgood.entitas",
+  "version": "1.0.0",
+  "displayName": "Entitas",
+  "description": "Entitas",
+  "dependencies": {
+    "com.gamingforgood.messagepack": "1.0.0"
+  }
+}
