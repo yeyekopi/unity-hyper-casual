@@ -4,7 +4,7 @@
     "com.gamingforgood.entitas": "file:../../Entitas.Package",
     "com.gamingforgood.messagepack": "file:../../MessagePack.Package",
     "com.gamingforgood.utils-collections": "file:../../CosUtils.Collections.Package",
-    "com.singularitygroup.hotreload": "git+https://gitlab.com/singularitygroup/hot-reload-for-unity.git#1.1.7",
+    "com.singularitygroup.hotreload": "git+https://gitlab.com/singularitygroup/hot-reload-for-unity.git#1.3.4",
     "com.unity.adaptiveperformance": "4.0.1",
     "com.unity.adaptiveperformance.samsung.android": "4.0.2",
     "com.unity.collab-proxy": "1.17.6",
