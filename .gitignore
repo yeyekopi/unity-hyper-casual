@@ -1,5 +1,4 @@
-
-*userproperties
+*.userproperties
 
 # JetBrains
 **/.idea/**/*
